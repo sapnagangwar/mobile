@@ -1,2 +1,2 @@
-I want to learn DynamoDB
-I want to learn how to create a table in DynamoDB
+I want to learn DynamoDB and Amazon S3	
+I want to learn how to create, update and delete a table in DynamoDB
