@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="14675" started-at="2018-09-23T06:09:07Z" finished-at="2018-09-23T06:09:21Z">
+  <suite name="Suite" duration-ms="33186" started-at="2018-09-25T21:53:17Z" finished-at="2018-09-25T21:53:50Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="14675" started-at="2018-09-23T06:09:07Z" finished-at="2018-09-23T06:09:21Z">
-      <class name="Mobile.com.mobile.framework.Amazon2">
-        <test-method status="PASS" signature="testApp()[pri:0, instance:Mobile.com.mobile.framework.Amazon2@4520ebad]" name="testApp" duration-ms="14631" started-at="2018-09-22T23:09:07Z" finished-at="2018-09-22T23:09:21Z">
+    <test name="Test" duration-ms="33186" started-at="2018-09-25T21:53:17Z" finished-at="2018-09-25T21:53:50Z">
+      <class name="Mobile.com.mobile.framework.Amazon1">
+        <test-method status="PASS" signature="testApp()[pri:0, instance:Mobile.com.mobile.framework.Amazon1@1593948d]" name="testApp" duration-ms="33162" started-at="2018-09-25T14:53:17Z" finished-at="2018-09-25T14:53:50Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testApp -->
-      </class> <!-- Mobile.com.mobile.framework.Amazon2 -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+      </class> <!-- Mobile.com.mobile.framework.Amazon1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
