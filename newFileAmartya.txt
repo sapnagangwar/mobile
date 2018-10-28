@@ -1,0 +1,2 @@
+I want to learn DynamoDB
+I want to learn how to create a table in DynamoDB
